@@ -1,0 +1,21 @@
+[submodule "gateway-app-spring-api"]
+	path = gateway-app-spring-api
+	url = https://github.com/ChihebBENCHEIKH1/gateway-app-spring-api.git
+[submodule "euroka-discovery-service-spring"]
+	path = euroka-discovery-service-spring
+	url = https://github.com/ChihebBENCHEIKH1/euroka-discovery-service-spring.git
+[submodule "config.server"]
+	path = config.server
+	url = https://github.com/ChihebBENCHEIKH1/config.server.git
+[submodule "Login-service-v2"]
+	path = Login-service-v2
+	url = https://github.com/ChihebBENCHEIKH1/Login-service-v2.git
+[submodule "Alert-microservice"]
+	path = Alert-microservice
+	url = https://github.com/ChihebBENCHEIKH1/Alert-microservice.git
+[submodule "mail_microservice"]
+	path = mail_microservice
+	url = https://github.com/ChihebBENCHEIKH1/mail_microservice.git
+[submodule "purge-service"]
+	path = purge-service
+	url = https://github.com/ChihebBENCHEIKH1/purge-service.git
